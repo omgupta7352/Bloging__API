@@ -12,5 +12,5 @@ A simple blogging platform API built with Spring Boot and MySQL.
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/blogging-platform.git
-   cd blogging-platform
+   git clone https://github.com/omgupta7352/Bloging__API.git
+   cd Bloging__API
