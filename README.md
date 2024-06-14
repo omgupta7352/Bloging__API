@@ -15,6 +15,10 @@ A simple blogging platform API built with Spring Boot and MySQL.
 - Spring Security
 - lombok
 
+  ## Controllers and API Endpoints:
+  - PostController
+  - CommentController
+
 ## Setup Instructions
 
 1. Clone the repository:
@@ -24,4 +28,9 @@ A simple blogging platform API built with Spring Boot and MySQL.
 
 
 ## Set up MySQL
-Configure database according to application.properties file, or update this file with yours properties.
+1. Configure database according to application.properties file, or update this file with yours properties.
+2. Make sure that application.properties have all necessary properties like user name, password, etc to make connection from MySQL.
+
+## Unit Test
+- PostServiceTest
+
